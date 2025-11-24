@@ -7,11 +7,11 @@ import 'package:lab_1_fundamentos_de_programacion/Suma%20de%20Binarios.dart';
 import 'package:lab_1_fundamentos_de_programacion/Resta%20de%20binarios.dart';
 import 'package:lab_1_fundamentos_de_programacion/Decimal%20a%20Hexadecimal.dart';
 void main(List<String> arguments) {
-  //decimal();
-  //binario();
-  //sumabinaria();
-  //restaBinaria();
-  //multiplicacionbinaria();
+  decimal();
+  binario();
+  sumabinaria();
+  restaBinaria();
+  multiplicacionbinaria();
   decimalHexadecimal();
 
  
