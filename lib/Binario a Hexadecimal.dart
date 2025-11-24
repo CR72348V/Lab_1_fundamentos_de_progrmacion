@@ -1,6 +1,8 @@
 import 'dart:io';
-void decimalHexadecimal(){
+void binarioHexadecimal(){
+
   print('Conversion de Binario a Hexadecimal');
+  
   stdout.write('Ingresa el número Decimal: ');
   int decimal = int.parse(stdin.readLineSync()!);
 
