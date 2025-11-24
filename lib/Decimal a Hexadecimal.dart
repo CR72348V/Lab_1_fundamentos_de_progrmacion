@@ -1,5 +1,5 @@
 import 'dart:io';
-void binarioHexadecimal(){
+void decimalHexadecimal(){
 
   print('Conversion de Binario a Hexadecimal');
   
